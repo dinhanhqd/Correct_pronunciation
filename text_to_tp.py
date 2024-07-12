@@ -25,3 +25,5 @@ def text_to_phonemes(sentence):
             phonemes.append("UNKNOWN")  # hoặc có thể sử dụng từ khóa để biểu thị từ không biết
 
     return phonemes
+#phonemes = text_to_phonemes("hello")
+#print(phonemes)
